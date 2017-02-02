@@ -1,0 +1,22 @@
+{
+  "name": "mep-atoms.dropdown",
+  "version": "1.0.0",
+  "description": "Base atom for dropdowns",
+  "main": "stylesheets/_dropdown.scss",
+  "eyeglass": {
+    "needs": "^1.0.0",
+    "name": "dropdown",
+    "exports": "eyeglass-exports.js"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "mise-en-place"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mise-en-place/atoms.dropdown.git"
+  },
+  "author": "Kind",
+  "license": "MIT"
+}
