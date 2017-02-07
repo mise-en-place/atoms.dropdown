@@ -5,7 +5,7 @@
   "main": "stylesheets/_dropdown.scss",
   "eyeglass": {
     "needs": "^1.0.0",
-    "name": "dropdown",
+    "name": "atom-dropdown",
     "exports": "eyeglass-exports.js"
   },
   "keywords": [
