@@ -16,6 +16,8 @@ Dropdown atom shows child elements on hover
 ```
 */
 
+@import "tool-link";
+
 .dropdown {
     position: relative;
     @include link-hover {
