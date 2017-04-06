@@ -1,15 +1,9 @@
 {
   "name": "mep-atoms.dropdown",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Base atom for dropdowns",
   "main": "stylesheets/_dropdown.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "atom-dropdown",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
